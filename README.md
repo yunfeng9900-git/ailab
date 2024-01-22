@@ -24,9 +24,9 @@
 
 |系统|登陆地址|功能|
 |---|---|---|
-|密码管理|https://auth.ai.iiis.co|账号修改密码。|
-|Harbor|https://harbor.ai.iiis.co|私有容器镜像仓库|
-|kubeconfig|https://login.ai.iiis.co|kubeconfig配置文件分发平台|
+|密码管理|https://auth.ai.iiis.co:9443|账号修改密码。|
+|Harbor|https://harbor.ai.iiis.co:9443|私有容器镜像仓库|
+|kubeconfig|https://login.ai.iiis.co:9443|kubeconfig配置文件分发平台|
 
 ## 获取访问权限
 
